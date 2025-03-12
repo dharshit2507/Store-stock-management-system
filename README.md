@@ -1,0 +1,1 @@
+# Store-stock-management-system
